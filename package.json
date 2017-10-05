@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/ruthbuena/codeFlix#readme",
   "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-scripts": "^1.0.14",
     "react-transition-group": "^1.2.1"
   }
 }
