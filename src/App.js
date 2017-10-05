@@ -64,7 +64,7 @@ var App = React.createClass({
   handleChange : function(e){
       this.setState({searchTerm : e.target.value});
   },
-  // render: function() {
+  render: function() {
   //   var child;
 	//
   // 		if(this.state.mounted) {
