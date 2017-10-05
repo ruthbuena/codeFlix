@@ -146,7 +146,7 @@ var Hero = React.createClass({
     return (
       <div id="hero" className="Hero" style={{backgroundImage: 'url(https://images.alphacoders.com/633/633643.jpg)'}}>
         <div className="content">
-          <img className="logo" src="http://www.returndates.com/backgrounds/narcos.logo.png" alt="narcos background" />
+          <img className="logo" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fslamdata.com%2Fwp-content%2Fuploads%2F2017%2F03%2Ftrilogy.png&imgrefurl=https%3A%2F%2Fslamdata.com%2Fthe-team%2Fcustomers%2F&docid=paASsYmrTYJyOM&tbnid=IkFVO1WPv1ScoM%3A&vet=10ahUKEwiqo93sh9rWAhXl64MKHfJ6DtQQMwgtKAYwBg..i&w=400&h=180&bih=711&biw=1440&q=trilogy%20education%20services&ved=0ahUKEwiqo93sh9rWAhXl64MKHfJ6DtQQMwgtKAYwBg&iact=mrc&uact=8" alt="narcos background" />
           <h2>Season 2 now available</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque id quam sapiente unde voluptatum alias vero debitis, magnam quis quod.</p>
           <div className="button-wrapper">
