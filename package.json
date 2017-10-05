@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ruthbuena/codeFlix/issues"
   },
-  "homepage": "https://github.com/ruthbuena/codeFlix#readme"
+  "homepage": "https://github.com/ruthbuena/codeFlix#readme",
+  "dependencies": {
+    "react-transition-group": "^1.2.1"
+  }
 }
